@@ -1,8 +1,8 @@
 # NimbusVault release history
 
-[Public history](https://siahverse.cc/changelog/#nimbusvault)
+[Public history](https://siahverse.cc/changelog/#nimbusvault) · [GitHub history](https://github.com/siahb/vault/commits/main/)
 
-Selected GitHub code history; commit dates are not confirmed deployment dates.
+Selected changes from GitHub commits, using the dates recorded in each source repository. New entries use America/Los_Angeles dates. These are code-history dates, not confirmed launch or deployment dates. Older work outside GitHub may not be recorded here.
 
 Planning documentation only; these commits do not represent a working cloud-storage release.
 
